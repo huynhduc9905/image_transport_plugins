@@ -48,7 +48,7 @@
 
 constexpr const char* kDefaultFormat = "jpeg";
 constexpr int kDefaultPngLevel = 3;
-constexpr int kDefaultJpegQuality = 95;
+constexpr int kDefaultJpegQuality = 50;
 
 using namespace cv;
 using namespace std;
